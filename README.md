@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Jenwein/Jenwein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 你好，我是Jenwein！
 
-Here are some ideas to get you started:
+## 🧑‍💻 关于我
+- 🎓 刚刚毕业的开发者，怀揣着对技术的热情，正迈向职业生涯的新起点。
+- 💻 主要技能：C++（最擅长），OpenGL，Qt 等。对底层开发与图形渲染有浓厚兴趣。
+- 🚀 最喜欢的项目：[@TheCherno/Hazel](https://github.com/TheCherno/Hazel) —— 它是我学习和成长的灵感来源！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 我的优势
+- 扎实的C++编程基础，熟悉现代C++特性与最佳实践。
+- 熟练掌握OpenGL，能独立开发图形渲染相关功能。
+- 掌握Qt框架，能够开发跨平台GUI应用。
+- 喜欢钻研底层原理，乐于解决复杂技术难题。
+
+## 🌱 目前在做什么？
+- 持续学习计算机图形学相关知识，提升引擎开发能力。
+- 关注开源社区，积极参与代码阅读和项目贡献。
+
+## ✨ 我的目标
+- 不断提升编程能力，成为图形引擎与底层系统开发领域的专家。
+- 参与更多有影响力的开源项目，与全球开发者交流合作。
+
+## 📫 联系我
+- GitHub: [Jenwein](https://github.com/Jenwein)
+
+---
+
+> “热爱编程，享受创造。”  
+> 希望在开源世界留下自己的足迹！
